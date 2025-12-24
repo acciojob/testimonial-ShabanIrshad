@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+main{
+	padding:15px;
+	background-color:#f5f5f5;
+}
+.testimonial-box{
+	padding:10px;
+	border:1px solid #f5f5f5;
+	background-color:white;
+}
+.testimonial-text{
+	font-weight:700;
+	font-size:0.8rem;
+}
+.author-name{
+	text-align:right;
+	font-style:italic;
+}
+
+
+
